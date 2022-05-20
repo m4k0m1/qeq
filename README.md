@@ -22,7 +22,7 @@ package main
 import (
     "fmt"
     "os"
-    "github.com/m4k0m1/gitter/go/qeq"
+    "github.com/m4k0m1/qeq"
 )
 
 func main() {
