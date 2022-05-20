@@ -13,7 +13,7 @@ $ go mod init qeq-demo
 Note that you need to include the **v** in the version tag.
 
 ```
-$ go get github.com/m4k0m1/gitter/go/qeq@v0.1.0
+$ go get github.com/m4k0m1/qeq@v0.1.0
 ```
 
 ```go
